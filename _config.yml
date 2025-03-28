@@ -3,9 +3,9 @@ title: Gray Westhighland's Blog
 SEOTitle: 灰色西高地 | Gray Highland's Blog
 header-img: img/home-bg.jpg
 email: forty4l311@gmail.com
-description: "这里是 @灰色西高地 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "Python,C++,前端"
-url: "https://grewwesthighland.me" # your host, for absolute URL
+description: "一只回南天牙膏味的灰色西高地"
+keyword: "Python,C++,前端，web"
+url: "https://grewwesthighland.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
