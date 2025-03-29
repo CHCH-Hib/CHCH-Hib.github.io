@@ -8,10 +8,10 @@ header-img: "https://github.com/CHCH-Hib/CHCH-Hib.github.io/blob/master/img/2025
 tags: Live
 ---
 <!-- 文章正文开始 -->
-![header-image]({https://github.com/CHCH-Hib/CHCH-Hib.github.io/blob/master/img/2025%E2%80%98s_first_sunraise.jpg}) <!-- 可选文章内图片 -->
+![header-image](https://github.com/CHCH-Hib/CHCH-Hib.github.io/blob/master/img/2025%E2%80%98s_first_sunraise.jpg) <!-- 可选文章内图片 -->
 
-# {{ page.title }} <!-- 自动读取标题 -->
-<small>{{ page.date | date: "%Y-%m-%d" }} • {{ page.author }}</small> <!-- 自动显示日期作者 -->
+# {{ Gray Westhighland's first blog }} 
+<small>{{ date: "2025-03-29" }} • {{ 灰色西高地 }}</small> 
 
 ## 目录
 - [欢迎光临我的频道](#section1)
