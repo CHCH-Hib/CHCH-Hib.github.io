@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: forty4l311@gmail.com
 description: "一只回南天牙膏味的灰色西高地"
 keyword: "Bellingham,Real Madrid,C++,FJNU,AI,Web"
-url: "https://GrayWesthighland" # your host, for absolute URL
+url: "https://fe80::3161:f48:4bd9:190c%11" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
