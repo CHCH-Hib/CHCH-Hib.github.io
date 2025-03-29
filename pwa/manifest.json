@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "灰色西高地",
+  "short_name": "GrayWesthighland's Blog",
+  "description": "About a student who loves AI.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
